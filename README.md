@@ -28,8 +28,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “ExplicitIntent”.
-Developed by: N.SIDDARTHAN
-Registration Number: 212221040154
+Developed by: RAHUL R
+Registration Number: 212221040136
 */
 ```
 activity_main.xml :
